@@ -1,0 +1,212 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<title>MYFOLIO</title>
+</head>
+<body>
+	<div class="container">
+		<header class="page-header">
+			<div class="header-top">          
+				<div class="header-logo">
+					<p>My<span>folio</span></p>
+				</div>
+				<ul class="main-nav">
+					<li><a href="#">home</a></li>
+					<li><a href="#">about ME</a></li>
+					<li><a href="#">services</a></li>
+					<li><a href="#">MY work</a></li>
+					<li><a href="#">contact ME</a></li>
+				</ul>
+			</div>			
+			<div class="header-main">				
+				<div class="promo">
+					<p class ="promo-top">Lorem ipsum dolor sit iusmod tempor</p>  
+					<h1 class="promo-middle">incididunt bore</h1>
+					<p class="promo-bottom">Orem ipsum dolor sit amet, consectetur</p>
+          <div>  
+				  	<a class="btn-know-more" href="#">Know more</a>
+          </div>
+				</div>				
+			</div>			
+		</header>
+		<section class="features">			
+			<div class="about">
+				<h2>About me</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <span>quis nostrud exercitation ullamco</span> laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor.</p>
+			</div>			
+			<div class="features">
+				<ul>
+					<li class="feature-item feature-light">
+						<h3 class="feature-title">Title goes here</h3>
+						<p>onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+					</li>
+					<li class="feature-item feature-pen">
+						<h3 class="feature-title">Title goes here</h3>
+						<p>onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+					</li>
+					<li class="feature-item feature-gear">
+						<h3 class="feature-title">Title goes here</h3>
+						<p>onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+					</li>
+					<li class="feature-item feature-pc">
+						<h3 class="feature-title">Title goes here</h3>
+						<p>onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+					</li>
+				</ul>				
+			</div>			
+		</section>
+		<section class="services">
+			<div class="services-image"></div>
+			<div class="services-info">
+				<h2>Services</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+				tempor incididunt ut labore et dolore magna aliqua.</p>
+				<div class="services-block">
+					<ul class="service-list">
+						<li class="services-item services-globe">
+							<h3 class="service-title">Title goes here</h3>
+							<p class="service-description">Onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+						</li>
+						<li class="services-item services-loupe">
+							<h3 class="service-title">Title goes here</h3>
+							<p class="service-description">Onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+						</li>
+						<li class="services-item services-alarm-clock">
+							<h3 class="service-title">Title goes here</h3>
+							<p class="service-description">Onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+						</li>
+						<li class="services-item services-graph">
+							<h3 class="service-title">Title goes here</h3>
+							<p class="service-description">Onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+						</li>
+					</ul>
+				</div> 
+			</div> 
+		</section>		
+		<section class="works">			
+			<div class="about about-short">
+				<h2>My work</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
+				ut labore et dolore magna aliqua.</p>
+			</div>
+			
+			<div class="gallery">
+				<ul>
+					<li>
+            <a href="#" class="img-link">
+              <img src="https://image.ibb.co/kfj9Cx/image_1_min_1.jpg" alt="image-1" border="0">
+              <div class="hover-block">
+                <div class="hover-block-center">
+							    <h3>Title goes here</h3>
+								  <p class="hover-description">onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+                </div>  
+							</div>  
+						</a>
+          </li>
+					<li>
+            <a href="#" class="img-link">
+              <img src="https://image.ibb.co/b7TVKc/image_2_min.jpg" alt="image-2" border="0">
+              <div class="hover-block">
+                <div class="hover-block-center">
+                  <h3>Title goes here</h3>
+							    <p class="hover-description"> onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+                </div>
+							</div>  
+						</a>
+          </li>
+					<li>
+            <a href="#" class="img-link">
+              <img src="https://image.ibb.co/jeZ1sx/image_3_min.jpg" alt="image-3" border="0">
+              <div class="hover-block">
+                <div class="hover-block-center">
+								  <h3>Title goes here</h3>
+								  <p class="hover-description"> onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+                </div>
+              </div>  
+						</a>
+          </li>
+					<li>
+            <a href="#" class="img-link">
+              <img src="https://image.ibb.co/djPHXx/image_4_min.jpg" alt="image-4" border="0">
+              <div class="hover-block">
+                <div class="hover-block-center">
+								  <h3>Title goes here</h3>
+								  <p class="hover-description"> onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+                </div>
+							</div>  
+						</a>
+          </li>
+					<li>
+            <a href="#" class="img-link">
+              <img src="https://image.ibb.co/nbHCXx/image_5_min.jpg" alt="image-5" border="0">
+              <div class="hover-block">
+                <div class="hover-block-center">
+								  <h3>Title goes here</h3>
+								  <p class="hover-description"> onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+                </div>
+							</div>  
+						</a>
+          </li>
+					<li>
+						<a href="#" class="img-link">
+							<img src="https://image.ibb.co/gNBvkH/image_6_min.jpg" alt="image-6" border="0">
+							<div class="hover-block">
+                <div class="hover-block-center">
+								  <h3>Title goes here</h3>
+								  <p class="hover-description"> onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+                </div>
+							</div>  
+						</a>
+					</li>
+					<li>
+            <a href="#" class="img-link">
+              <img src="https://image.ibb.co/iB4Czc/image_7_min.jpg" alt="image-7" border="0">
+              <div class="hover-block">
+                <div class="hover-block-center">
+                  <h3>Title goes here</h3>
+								  <p class="hover-description"> onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+                </div>
+              </div>  
+						</a>
+          </li>
+					<li>
+            <a href="#" class="img-link">
+              <img src="https://image.ibb.co/ft49Cx/image_8_min.jpg" alt="image-8" border="0">
+              <div class="hover-block">
+                <div class="hover-block-center">
+								  <h3>Title goes here</h3>
+								  <p class="hover-description"> onsectetur adipisicing elit, sedo eiusmod tempor incidi et dolorerserss eerhfre mag.</p>
+                </div>  
+							</div>  
+						</a>
+          </li>
+				</ul>
+			</div>
+		</section>
+		<footer class="contacts">
+			<div class="about about-short">
+				<h2>Contact me</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
+				ut labore et dolore magna aliqua.</p>
+			</div>
+			<form class="feedback-form" action="URL#" method="post">
+				<div class="feedback-form-group">
+					<label for="fullname"></label>
+					<input type="text" name="fullname" id="fullname" value="NAME">
+				</div>
+				<div class="feedback-form-group">
+					<label for="email"></label>
+					<input type="text" name="email" id="email" value="EMAIL ADDRESS">
+				</div>
+				<div class="feedback-form-group">
+					<label for="message">MESSAGE</label>
+					<textarea name="message" id="message" wrap="soft"></textarea>
+				</div>
+				<input type="submit" class="btn-know-more" value="SUBMIT">
+			</form>
+			<address>© MYFOLIO</address>
+			</footer>			
+	</div>
+</body>
+</html>
